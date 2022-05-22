@@ -1,4 +1,12 @@
 body{
-    background-color: maroon;
-    color: blueviolet;
+    background-color: gray;
+    color: green;
+}
+
+p {
+    color: blue;
+}
+
+.promociones {
+    color: brown;
 }
