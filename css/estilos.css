@@ -4,10 +4,8 @@
     box-sizing: border-box;
 }
 
-
-body{
-    background-color:gainsboro;
-    color: black;
+.degradado-3 {
+    background-color: aquamarine;
 }
 
 a {
@@ -34,5 +32,12 @@ a {
 }
 
 .separar-abajo {
-    margin-bottom: 2rem;
+    margin-bottom: 32px;
 }
+
+.titulo-mayuscula {
+    display: inline;
+    text-transform: uppercase;
+    font font-weight: 500;
+}
+
