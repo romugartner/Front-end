@@ -10,6 +10,10 @@ body{
     color: black;
 }
 
+a {
+    color:inherit;
+}
+
 #parrafo-2 {
     font-size: 50; /* tamaño de la fuente*/
     text-align: center; /* texto centrado*/
@@ -27,4 +31,8 @@ body{
 
 .inlide {
     display: inline;
+}
+
+.separar-abajo {
+    margin-bottom: 2rem;
 }
