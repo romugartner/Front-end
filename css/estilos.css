@@ -19,11 +19,55 @@ a {
    }
 
 .main {
-    background-image:url(../imagenes/imagen\ de\ negocio.jpg);
     color: black;
-     
-}
+    position: relative;
+    background-repeat: no-repeat;
+
+     }
 
 .seccion_1 {
     text-transform: uppercase;
+    background-color: magenta;
+    padding-top: 2rem;
+    text-align: center;
+    top: 1rem;
+    right: 1rem;
+    text-transform: uppercase;
+
 }
+
+
+
+.seccion_2{
+    background-color: lemonchiffon;
+
+    padding-bottom: 2rem;
+    text-align: center;
+    font-size: medium;
+
+
+
+}
+
+
+.promocion {
+    background-color: black;
+    color: violet;
+    position: absolute;
+    top: 1rem;
+    left: 2rem;
+    border-radius: 20px;
+    text-transform: uppercase;
+    padding: 1rem 2rem;
+
+}
+
+.contacto {
+    background-color: blue;
+    color: chartreuse;
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+}
+
+
