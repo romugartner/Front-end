@@ -8,15 +8,25 @@ a {
     color:inherit;
 }
 
-.header-footer {
+.header {
     background-color:black;
     color:white;
+    
 }
 
-.video {
-    margin-bottom: 32px;
-    font-size: 20px;
-   }
+.flex {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.lista { 
+    display: flex;
+    list-style: none;
+    gap: 30px;
+
+}
 
 .main {
     color: black;
@@ -70,4 +80,8 @@ a {
     right: 2rem;
 }
 
+.footer {
+    background-color:black;
+    color:white;
+}
 
