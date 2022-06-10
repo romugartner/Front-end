@@ -12,6 +12,7 @@ a {
     background-color:black;
     color:white;
     padding: 1rem 2rem;
+    font-size: 20px;
     
 }
 
@@ -43,6 +44,7 @@ a {
     text-transform: uppercase;
     background-color: magenta;
     padding-top: 2rem;
+    padding-left: 800px;
     text-align: center;
     top: 1rem;
     right: 1rem;
@@ -50,14 +52,24 @@ a {
 
 }
 
+.seccion_4 { 
+    position: absolute;
+    font-size: 15px;
+    top: 6rem;
+    left: 2rem;
+    text-transform: uppercase;
+    font-weight: 700;
+
+    
+}
 
 
+  
 .seccion_2{
     background-color: lemonchiffon;
-
     padding-bottom: 2rem;
     text-align: center;
-    font-size: medium;
+    font-size: 25px
 
 
 
@@ -96,6 +108,7 @@ a {
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding-bottom: 2rem;
-
+    font-size: 20px;
+    
 }
+
