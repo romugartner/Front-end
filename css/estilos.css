@@ -49,6 +49,7 @@ a {
     top: 1rem;
     right: 1rem;
     text-transform: uppercase;
+    min-height: 500px;
 
 }
 
@@ -69,7 +70,8 @@ a {
     background-color: lemonchiffon;
     padding-bottom: 2rem;
     text-align: center;
-    font-size: 25px
+    font-size: 25px;
+    min-height: 500px;
 
 
 
