@@ -26,6 +26,7 @@ a {
 .lista { 
     display: flex;
     list-style: none;
+    font-size: 23px;
   
 
 }
@@ -33,6 +34,11 @@ a {
 .lista_2 {
     margin-left: 2rem;
 }
+
+.subrayado {
+    text-decoration: none;
+}
+
 .main {
     color: black;
     position: relative;
@@ -67,10 +73,10 @@ a {
 
   
 .seccion_2{
-    background-color: lemonchiffon;
-    padding-bottom: 2rem;
-    text-align: center;
-    font-size: 25px;
+    background-color: burlywood;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
     min-height: 500px;
 
 
@@ -80,7 +86,7 @@ a {
 
 .promocion {
     background-color: black;
-    color: violet;
+    color: rgb(20, 15, 20);
     position: absolute;
     top: 1rem;
     left: 2rem;
@@ -111,6 +117,7 @@ a {
     justify-content: space-between;
     align-items: center;
     font-size: 20px;
+    min-height: 250px;
     
 }
 
