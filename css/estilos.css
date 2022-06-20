@@ -59,30 +59,41 @@ a {
 
 }
 
-.seccion_4 { 
-    position: absolute;
-    font-size: 15px;
-    top: 6rem;
-    left: 2rem;
-    text-transform: uppercase;
-    font-weight: 700;
-
-    
-}
 
 
   
 .seccion_2{
     background-color: burlywood;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
     min-height: 500px;
+    
 
 
 
 }
 
+.seccion_3 { 
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-top: 2rem;
+   
+}
+
+.seccion_4 {
+    text-align: center;
+    font-size: 30px;
+    font-weight: 500px;
+
+}
+
+.seccion_5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 2rem;
+    padding-bottom: 2rem;
+
+}
 
 .promocion {
     background-color: black;
