@@ -136,8 +136,20 @@ a {
     align-items: center;
     gap: 10px;
     font-size: 25px;
+}
 
 
-    
+.productos_1 {
+    background-color: navy;
+    color: white;
+    min-height: 800px;
+}
+
+.productos_2 {
+    font-size: 30px;
+    padding-left: 2rem;
+    padding-top: 2rem;
+    text-align: center;
+
 }
 
