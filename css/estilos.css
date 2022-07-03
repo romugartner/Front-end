@@ -23,13 +23,16 @@ a {
     align-items: center;
 }
 
+
+
+
 .lista { 
     display: flex;
     list-style: none;
     font-size: 25px;
   
+  }
 
-}
 
 .lista_2 {
     margin-left: 2rem;
@@ -45,6 +48,7 @@ a {
     background-repeat: no-repeat;
 
      }
+
 
 .seccion_1 {
     text-transform: uppercase;
@@ -117,6 +121,7 @@ a {
     background-color:black;
     color:white;
     padding: 1rem 2rem;
+    
   
 }
 
@@ -127,7 +132,10 @@ a {
     align-items: center;
     min-height: 250px;
     
+    
 }
+
+
 
 .footer_3 {
     display: flex;
@@ -180,4 +188,19 @@ a {
     text-align: center;
     text-transform: uppercase;
     font-size: 25px;
+}
+
+.main_3_1 {
+    min-height: 800px;
+}
+
+/* bootstrap de main*/
+.carousel-item img {
+    height: 1000px;
+    object-fit: cover;
+
+  }
+
+.container-fluid {
+    overflow: hidden;
 }
