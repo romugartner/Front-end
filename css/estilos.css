@@ -175,7 +175,6 @@ ul {
 }
 
 .productos_2 {
-    font-size: 30px;
     padding-left: 2rem;
     padding-top: 2rem;
     text-align: center;
@@ -254,6 +253,7 @@ ul {
     .seccion_3 { 
         display: flex;
         flex-direction: column;
+    
     }
 
     .seccion_4 {
@@ -281,6 +281,27 @@ ul {
     img {
         width: 100%;
         object-fit: cover;
+    }
+
+    .productos_2 {
+        font-size: 12px;
+    }
+
+    .productos_3 {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+
+    }
+    .seccion_2 {
+      padding-left: 1rem;
+      padding-right: 1rem;
+    }
+    .productos_1 {
+        padding-left: 1rem;
+        padding-right: 1rem 
     }
 
     }
