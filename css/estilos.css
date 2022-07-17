@@ -97,7 +97,7 @@ a {
 }
 
 .seccion_4_1 {
-    color: blue;
+    color: darkblue;
     text-transform: uppercase;
 }
 
@@ -120,6 +120,20 @@ a {
     text-transform: uppercase;
     padding: 1rem 2rem;
 
+}
+
+.texto {
+    font-size: 25px;
+    background-color: burlywood;
+    text-align: center;
+    color: darkblue;
+    
+
+}
+
+.texto_2 {
+    text-transform: uppercase;
+    color: darkblue;
 }
 
 .contacto {
@@ -276,7 +290,12 @@ ul {
         height: 30px;
 
     }
-       
+    
+    .texto {
+        font-size: 15px;
+    }
+
+ 
 
     img {
         width: 100%;
